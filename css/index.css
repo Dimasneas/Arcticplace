@@ -11,7 +11,7 @@
 
 @font-face {
     font-family: 'Corki';
-    src: url('../font/Cor.ttf') format('truetype');
+    src: url('../fonts/Corki.ttf') format('truetype');
 }
 
 * {
@@ -186,7 +186,7 @@
     background-color: #ffffff;
     text-transform: uppercase;
     font-size: 100px;
-
+    display: flex;
     align-items: center;
     justify-content: flex-end;
     aspect-ratio: 10/2;
