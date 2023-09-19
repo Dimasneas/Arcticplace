@@ -11,7 +11,7 @@
 
 @font-face {
     font-family: 'Corki';
-    src: url('../fonts/Corki.ttf') format('truetype');
+    src: url('https://dimasneas.github.io/Articplace/font/Corki.ttf') format('truetype');
 }
 
 * {
